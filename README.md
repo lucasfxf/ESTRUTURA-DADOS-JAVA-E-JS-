@@ -1,15 +1,20 @@
-# Estrutura de Dados em Java
+# Estrutura de Dados
 
-Projeto com implementações de estruturas de dados em Java e JavaScript.
+Projetos desenvolvidos durante a disciplina de Estrutura de Dados do curso de Sistemas de Informação.
 
-## 📚 Conteúdo
-- Pilha
-- Fila
-- Listas
+## Conteúdos
 
-## 🛠 Tecnologias
+- Pilhas
+- Filas
+- Deque
+- Lista Encadeada
+- Lista Duplamente Encadeada
+- HashMap
+- Hash Open Addressing
+
+## Tecnologias
+
 - Java
 - JavaScript
-
-## 👤 Autor
-Lucas Farias
+- HTML
+- CSS
